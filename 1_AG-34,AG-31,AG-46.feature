@@ -8,6 +8,7 @@ Feature: Registered Customer can log in to Product Store
 	@TEST_AG-31 @TESTSET_AG-14 @TESTSET_AG-44
 	Scenario: El usuario se puede logar con su nombre y contraseña correctos
 		Given an user already registered
+		And tengo otra cosa que hacer
 		When user goes to application
 		And clicks login button
 		And enters valid username
