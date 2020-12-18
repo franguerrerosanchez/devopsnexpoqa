@@ -1,4 +1,4 @@
-Feature: Registered Customer can log in to Product Store
+Feature: Registered Customer can log in to Product Store FRAN
 
 	@TEST_AG-34 @TESTSET_AG-14
 	Scenario: User can sees main page
